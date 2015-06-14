@@ -1,0 +1,22 @@
+{
+  "name": "cc",
+  "version": "0.0.1",
+  "description": "Converts csv from http://mtgdb.net/database/ into cockatrice cards.xml",
+  "main": "index.js",
+  "dependencies": {
+    "co": "^3.1.0",
+    "csv-parse": "^0.1.3",
+    "js2xml": "^1.0.3",
+    "lodash": "^3.9.3",
+    "thunkify": "^2.1.2",
+    "xml2js": "^0.4.9",
+    "xmlbuilder": "^2.6.4",
+    "yargs": "^3.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stoke (stoke95@gmail.com)",
+  "license": "MIT"
+}
